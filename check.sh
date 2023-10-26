@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# this is mirracle
 # Run git remote -v command and store the output in a variable
 remote=$(git remote -v)
 
